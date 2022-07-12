@@ -60,7 +60,7 @@
 <p dir="auto">(hbnb) destroy Place 9fd1f506-9cc7-4ba8-9b2f-d6bda9bbcddb</p>
 </blockquote>
 <blockquote>
-<p dir="auto">(hbnb) show Place 9fd1f506-9cc7-4ba8-9b2f-d6bda9bbcddb</p>
+<p dir="auto">(hbnb) show Place 9fd1f506-9cc7-4ba8-9b3f-d6bda9bbcddb</p>
 </blockquote>
 <p dir="auto">** no instance found **</p>
 <p dir="auto"><span>all:</span></p>
