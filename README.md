@@ -5,8 +5,7 @@
 </blockquote>
 <blockquote>
 </ul>
-<h2 dir="auto"><a id="user-content-serialization-deserializations-flow" class="anchor" href="https://github.com/jhojanperlaza/holbertonschool-AirBnB_clone/blob/master/README.md#serialization-deserializations-flow"></a>Serialization-deserialization's flow:</h2>
+<h2Serialization-deserialization's flow:</h2>
 <p dir="auto">&lt;class 'BaseModel'&gt; -&gt; to_dict() -&gt; &lt;class 'dict'&gt; -&gt; JSON dump -&gt; &lt;class 'str'&gt; -&gt; FILE -&gt; &lt;class 'str'&gt; -&gt; JSON load -&gt; &lt;class 'dict'&gt; -&gt; &lt;class 'BaseModel'&gt;</p>
-<blockquote>
 <p dir="auto"> This is the process of Serialization and deserialization to a json file </p>
 <h2 Proyect Overview:</h2>
