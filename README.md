@@ -10,10 +10,3 @@
 <blockquote>
 <p dir="auto"> This is the process of Serialization and deserialization to a json file </p>
 <h2 Proyect Overview:</h2>
-<p><a href="https://github.com/jhojanperlaza/holbertonschool-AirBnB_clone/blob/master/AirBnBv1.png?raw=true" rel="noopener noreferrer" target="_blank"><img src="https://github.com/jhojanperlaza/holbertonschool-AirBnB_clone/raw/master/AirBnBv1.png?raw=true" alt="Stage1-AirBnB_clone_project" /></a></p>
-<h3 dir="auto"><a id="user-content-how-to-start-it" class="anchor" href="https://github.com/jhojanperlaza/holbertonschool-AirBnB_clone/blob/master/README.md#how-to-start-it"></a>How to start it:</h3>
-<blockquote>
-<p dir="auto"><span>AirBnB$ ./console.py</span>&nbsp;"""interactive mode"""</p>
-</blockquote>
-<p dir="auto">(hbnb) help</p>
-<p dir="auto">Documented commands (type help &lt; topic &gt;):</p>
