@@ -51,3 +51,15 @@
 <p dir="auto">(hbnb) create Place</p>
 </blockquote>
 <p dir="auto">63514b83-af33-4038-9c66-256fefc35165</p>
+<p dir="auto"><span>destroy:</span></p>
+<blockquote>
+<p dir="auto">(hbnb) create Place</p>
+</blockquote>
+<p dir="auto">9fd1f506-9cc7-4ba8-9b2f-d6bda9bbcddb</p>
+<blockquote>
+<p dir="auto">(hbnb) destroy Place 9fd1f506-9cc7-4ba8-9b2f-d6bda9bbcddb</p>
+</blockquote>
+<blockquote>
+<p dir="auto">(hbnb) show Place 9fd1f506-9cc7-4ba8-9b2f-d6bda9bbcddb</p>
+</blockquote>
+<p dir="auto">** no instance found **</p>
