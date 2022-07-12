@@ -63,3 +63,20 @@
 <p dir="auto">(hbnb) show Place 9fd1f506-9cc7-4ba8-9b2f-d6bda9bbcddb</p>
 </blockquote>
 <p dir="auto">** no instance found **</p>
+<p dir="auto"><span>all:</span></p>
+<blockquote>
+<p dir="auto">(hbnb) create BaseModel</p>
+</blockquote>
+<p dir="auto">bf876ce4-ecc9-4185-8d22-88c23cbe4f28</p>
+<blockquote>
+<p dir="auto">(hbnb) create BaseModel</p>
+</blockquote>
+<p dir="auto">61691f4f-f58c-4b58-8618-14472c984061</p>
+<blockquote>
+<p dir="auto">(hbnb) create User</p>
+</blockquote>
+<p dir="auto">81fc9995-016a-4f47-85ef-62bb73ce5e1c</p>
+<blockquote>
+<p dir="auto">(hbnb) all</p>
+</blockquote>
+<p dir="auto">["[BaseModel] (bf876ce4-ecc9-4185-8d22-88c23cbe4f28) {'id': 'bf876ce4-ecc9-4185-8d22-88c23cbe4f28', 'created_at': datetime.datetime(2022, 7, 6, 15, 49, 15, 483376), 'updated_at': datetime.datetime(2022, 7, 6, 15, 49, 15, 483395)}", "[BaseModel] (61691f4f-f58c-4b58-8618-14472c984061) {'id': '61691f4f-f58c-4b58-8618-14472c984061', 'created_at': datetime.datetime(2022, 7, 6, 15, 49, 31, 624055), 'updated_at': datetime.datetime(2022, 7, 6, 15, 49, 31, 624070)}", "[User] (81fc9995-016a-4f47-85ef-62bb73ce5e1c) {'id': '81fc9995-016a-4f47-85ef-62bb73ce5e1c', 'created_at': datetime.datetime(2022, 7, 6, 15, 49, 36, 876947), 'updated_at': datetime.datetime(2022, 7, 6, 15, 49, 36, 877007)}"]</p>
