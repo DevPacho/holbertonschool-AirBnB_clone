@@ -5,7 +5,7 @@
 </blockquote>
 <blockquote>
 </ul>
-<h2Serialization-deserialization's flow:</h2>
+<h2>Serialization-deserialization's flow:</h2>
 <p dir="auto">&lt;class 'BaseModel'&gt; -&gt; to_dict() -&gt; &lt;class 'dict'&gt; -&gt; JSON dump -&gt; &lt;class 'str'&gt; -&gt; FILE -&gt; &lt;class 'str'&gt; -&gt; JSON load -&gt; &lt;class 'dict'&gt; -&gt; &lt;class 'BaseModel'&gt;</p>
 <p> This is the process of Serialization and deserialization to a json file </p>
 <h2 Proyect Overview:</h2>
