@@ -1,7 +1,7 @@
 <h1 dir="auto"><span>0x00. AirBnB clone - The console</span></h1>
-<h2 dir="auto"><a id="user-content-projects-description" class="anchor" href="https://github.com/jhojanperlaza/holbertonschool-AirBnB_clone/blob/master/README.md#projects-description"></a>Project's description:</h2>
 <blockquote>
-<p dir="auto">This is the first step towards building a full web application: the AirBnB clone. This first step is very important because we will use what we build during this project with all other following projects: HTML/CSS templating, database storage, API, front-end integration&hellip;</p>
+<h2> Description </h2>
+<p dir="auto">This proyect is the implementation of an storeg engine, and how to store all the information about users in a json file, control by a console, as the name mentioned this proyect create a console in interactive and non-interactive mode, and it used to create and implement a lot of command to recreate a storeg engine </p>
 </blockquote>
 <blockquote>
 <p dir="auto">Steps:</p>
