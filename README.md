@@ -1,7 +1,4 @@
 <h1 dir="auto"><span>0x00. AirBnB clone - The console</span></h1>
-<blockquote>
-<p dir="auto">In this repository, Sebastian Carvajal and I implemented the AirBnB clone - version1.</p>
-</blockquote>
 <h2 dir="auto"><a id="user-content-projects-description" class="anchor" href="https://github.com/jhojanperlaza/holbertonschool-AirBnB_clone/blob/master/README.md#projects-description"></a>Project's description:</h2>
 <blockquote>
 <p dir="auto">This is the first step towards building a full web application: the AirBnB clone. This first step is very important because we will use what we build during this project with all other following projects: HTML/CSS templating, database storage, API, front-end integration&hellip;</p>
