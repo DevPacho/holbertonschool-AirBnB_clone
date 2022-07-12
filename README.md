@@ -9,3 +9,4 @@
 <p dir="auto">&lt;class 'BaseModel'&gt; -&gt; to_dict() -&gt; &lt;class 'dict'&gt; -&gt; JSON dump -&gt; &lt;class 'str'&gt; -&gt; FILE -&gt; &lt;class 'str'&gt; -&gt; JSON load -&gt; &lt;class 'dict'&gt; -&gt; &lt;class 'BaseModel'&gt;</p>
 <p> This is the process of Serialization and deserialization to a json file </p>
 <h2> Proyect Overview:</h2>
+<img src="https://s3.amazonaws.com/intranet-projects-files/concepts/74/hbnb_step1.png">
