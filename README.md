@@ -8,7 +8,7 @@
 <h2 dir="auto"><a id="user-content-serialization-deserializations-flow" class="anchor" href="https://github.com/jhojanperlaza/holbertonschool-AirBnB_clone/blob/master/README.md#serialization-deserializations-flow"></a>Serialization-deserialization's flow:</h2>
 <p dir="auto">&lt;class 'BaseModel'&gt; -&gt; to_dict() -&gt; &lt;class 'dict'&gt; -&gt; JSON dump -&gt; &lt;class 'str'&gt; -&gt; FILE -&gt; &lt;class 'str'&gt; -&gt; JSON load -&gt; &lt;class 'dict'&gt; -&gt; &lt;class 'BaseModel'&gt;</p>
 <blockquote>
-<p dir="auto">For this first step, we have to write in a file all our objects/instances created/updated in our command interpreter and restore them when we start it. We can&rsquo;t store and restore a Python instance of a class as &ldquo;Bytes&rdquo;, the only way is to convert it to a serializable data structure as the one above.</p>
+<p dir="auto"> This is the process of Serialization and deserialization to a json file </p>
 </blockquote>
 <h2 dir="auto"><a id="user-content-command-interpreter" class="anchor" href="https://github.com/jhojanperlaza/holbertonschool-AirBnB_clone/blob/master/README.md#command-interpreter"></a>Command Interpreter:</h2>
 <blockquote>
