@@ -4,32 +4,6 @@
 <p dir="auto">This proyect is the implementation of an storeg engine, and how to store all the information about users in a json file, control by a console, as the name mentioned this proyect create a console in interactive and non-interactive mode, and it used to create and implement a lot of command to recreate a storeg engine </p>
 </blockquote>
 <blockquote>
-<p dir="auto">Steps:</p>
-</blockquote>
-<ul dir="auto">
-<li>Create a parent class (called&nbsp;<span>BaseModel</span>) to take care of the initialization, serialization and deserialization of the future instances.</li>
-<li>Create a simple flow of serialization/deserialization: Instance &lt;-&gt; Dictionary &lt;-&gt; JSON string &lt;-&gt; file.</li>
-<li>Create all classes used for AirBnB (User, State, City, Place&hellip;) that inherit from BaseModel.</li>
-<li>Create the first abstracted storage engine of the project: File storage.</li>
-<li>Create all unittests to validate all the classes and storage engine.</li>
-<li>Create the command interpreter.</li>
-</ul>
-<blockquote>
-<p dir="auto">Our child classes from BaseModel:</p>
-</blockquote>
-<ul dir="auto">
-<li>User</li>
-<li>State</li>
-<li>City</li>
-<li>Place</li>
-<li>Amenity</li>
-<li>Review</li>
-</ul>
-<blockquote>
-<p dir="auto">And our class for the engine:</p>
-</blockquote>
-<ul dir="auto">
-<li>FileStorage</li>
 </ul>
 <h2 dir="auto"><a id="user-content-serialization-deserializations-flow" class="anchor" href="https://github.com/jhojanperlaza/holbertonschool-AirBnB_clone/blob/master/README.md#serialization-deserializations-flow"></a>Serialization-deserialization's flow:</h2>
 <p dir="auto">&lt;class 'BaseModel'&gt; -&gt; to_dict() -&gt; &lt;class 'dict'&gt; -&gt; JSON dump -&gt; &lt;class 'str'&gt; -&gt; FILE -&gt; &lt;class 'str'&gt; -&gt; JSON load -&gt; &lt;class 'dict'&gt; -&gt; &lt;class 'BaseModel'&gt;</p>
