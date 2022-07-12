@@ -10,3 +10,36 @@
 <p> This is the process of Serialization and deserialization to a json file </p>
 <h2> Proyect Overview:</h2>
 <img src="https://s3.amazonaws.com/intranet-projects-files/concepts/74/hbnb_step1.png">
+<h3 dir="auto">How to start it:</h3>
+<blockquote>
+<p dir="auto"><span>AirBnB$ ./console.py</span>&nbsp;"""interactive mode"""</p>
+</blockquote>
+<p dir="auto">(hbnb) help</p>
+<p dir="auto">Documented commands (type help &lt; topic &gt;):</p>
+<hr />
+<p dir="auto">EOF all create destroy help quit show update</p>
+<p dir="auto">(hbnb)</p>
+<p dir="auto">(hbnb) quit</p>
+<blockquote>
+<p dir="auto"><span>AirBnB$ echo "help" | ./console.py</span>&nbsp;"""non-interactive mode""" (hbnb)</p>
+</blockquote>
+<p dir="auto">Documented commands (type help &lt; topic &gt;):</p>
+<hr />
+<p dir="auto">EOF all create destroy help quit show update</p>
+<p dir="auto">(hbnb)</p>
+<p dir="auto">AirBnB$</p>
+<h3 dir="auto"><a id="user-content-how-to-use-it" class="anchor" href="https://github.com/jhojanperlaza/holbertonschool-AirBnB_clone#how-to-use-it"></a>How to use it:</h3>
+<blockquote>
+<p dir="auto">This is the command's list:</p>
+</blockquote>
+<ul dir="auto">
+<li><span>help</span>&nbsp;- Shows information about the console or its commands - Usage: help or help create</li>
+<li><span>EOF</span>&nbsp;- Exits the console</li>
+<li><span>quit</span>&nbsp;- Exits the console</li>
+<li><span>create</span>&nbsp;- Creates an instance - Usage: create Class</li>
+<li><span>show</span>&nbsp;- Prints the string representation of an instance - Usage: show Class id</li>
+<li><span>destroy</span>&nbsp;- Deletes an intance - Usage: destroy Class id</li>
+<li><span>all</span>&nbsp;- Prints all string representation of all instance - Usage: all or all Class</li>
+<li><span>update</span>&nbsp;- Updates an instance - Usage: update Class id attribute value</li>
+</ul>
+<h3 dir="auto"><a id="user-content-examples" class="anchor" href="https://github.com/jhojanperlaza/holbertonschool-AirBnB_clone#examples"></a>Examples:</h3>
