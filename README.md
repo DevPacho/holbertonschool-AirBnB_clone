@@ -42,4 +42,17 @@
 <li><span>all</span>&nbsp;- Prints all string representation of all instance - Usage: all or all Class</li>
 <li><span>update</span>&nbsp;- Updates an instance - Usage: update Class id attribute value</li>
 </ul>
-<h3 dir="auto"><a id="user-content-examples" class="anchor" href="https://github.com/jhojanperlaza/holbertonschool-AirBnB_clone#examples"></a>Examples:</h3>
+<h3>Examples:</h3>
+<p dir="auto"><span>Create:</span></p>
+<blockquote>
+<p dir="auto">(hbnb) create BaseModel</p>
+</blockquote>
+<p dir="auto">929fab0f-efb4-4eb7-9cfa-27c57cd167df</p>
+<blockquote>
+<p dir="auto">(hbnb) create User</p>
+</blockquote>
+<p dir="auto">5aa4eec2-ce66-4415-ba41-28c3207a68b6</p>
+<blockquote>
+<p dir="auto">(hbnb) create Place</p>
+</blockquote>
+<p dir="auto">63514b83-af33-4038-9c66-256fefc35165</p>
