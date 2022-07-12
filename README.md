@@ -29,6 +29,24 @@
 <p dir="auto">(hbnb)</p>
 <p dir="auto">AirBnB$</p>
 <h3 dir="auto"><a id="user-content-how-to-use-it" class="anchor" href="https://github.com/jhojanperlaza/holbertonschool-AirBnB_clone#how-to-use-it"></a>How to use it:</h3>
+<p><span>show:</span></p>
+<blockquote>
+<p dir="auto">(hbnb) show User 0e100f94-884d-4d6e-b1ac-73ccff8ee8e6</p>
+</blockquote>
+<p dir="auto">[User] (0e100f94-884d-4d6e-b1ac-73ccff8ee8e6) {'id': '0e100f94-884d-4d6e-b1ac-73ccff8ee8e6', 'created_at': datetime.datetime(2022, 7, 6, 15, 43, 19, 809060), 'updated_at': datetime.datetime(2022, 7, 6, 15, 43, 19, 809092)}</p>
+<p dir="auto"><span>destroy:</span></p>
+<blockquote>
+<p dir="auto">(hbnb) destroy Place 9fd1f506-9cc7-4ba8-9b2f-d6bda9bbcddb</p>
+</blockquote>
+<blockquote>
+<p dir="auto">(hbnb) show Place 9fd1f506-9cc7-4ba8-9b2f-d6bda9bbcddb</p>
+</blockquote>
+<p dir="auto">** no instance found **</p>
+<p dir="auto"><span>all:</span></p>
+<blockquote>
+<p dir="auto">hbnb) all</p>
+</blockquote>
+<p dir="auto">["[BaseModel] (bf876ce4-ecc9-4185-8d22-88c23cbe4f28) {'id': 'bf876ce4-ecc9-4185-8d22-88c23cbe4f28', 'created_at': datetime.datetime(2022, 7, 6, 15, 49, 15, 483376), 'updated_at': datetime.datetime(2022, 7, 6, 15, 49, 15, 483395)}", "[BaseModel] (61691f4f-f58c-4b58-8618-14472c984061) {'id': '61691f4f-f58c-4b58-8618-14472c984061', 'created_at': datetime.datetime(2022, 7, 6, 15, 49, 31, 624055), 'updated_at': datetime.datetime(2022, 7, 6, 15, 49, 31, 624070)}", "[User] (81fc9995-016a-4f47-85ef-62bb73ce5e1c) {'id': '81fc9995-016a-4f47-85ef-62bb73ce5e1c', 'created_at': datetime.datetime(2022, 7, 6, 15, 49, 36, 876947), 'updated_at': datetime.datetime(2022, 7, 6, 15, 49, 36, 877007)}"]</p>
 <blockquote>
 <p dir="auto">This is the command's list:</p>
 </blockquote>
