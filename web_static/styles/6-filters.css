@@ -53,7 +53,7 @@
 
 .sub {
     margin: 0;
-    font-weight: 16px;
+    font-size: 16px;
     padding-top: 30px;
     margin-left: -25px;
 }
@@ -86,6 +86,7 @@ ul{
     top: 0;
     margin-top: 71px;
     padding-left: 50px;
+    z-index: 1;
     }
 
 .list-i{

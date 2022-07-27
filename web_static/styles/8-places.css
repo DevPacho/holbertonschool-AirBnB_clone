@@ -13,6 +13,7 @@
     border: 1px solid #FF5A5F;
     border-radius: 4px;
     padding-top: 50px;
+    position: relative;
 }
 
 .places h1{
@@ -38,19 +39,19 @@
 }
 
 .max_guest{
-    background-image: url(/web_static/images/guests.png);
+    background-image: url(https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/268/icon_group.png);
     background-repeat: no-repeat;
     background-position-x: center;
 }
 
 .number_rooms{
-    background-image: url(/web_static/images/bedrooms.png);
+    background-image: url(https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/268/icon_bed.png);
     background-repeat: no-repeat;
     background-position-x: center;
 }
 
 .number_bathrooms{
-    background-image: url(/web_static/images/bathrooms.png);
+    background-image: url(https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/268/icon_bath.png);
     background-repeat: no-repeat;
     background-position-x: center;
 }
